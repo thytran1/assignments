@@ -6,14 +6,14 @@ Version History:
 
 In this assignment, we are exercising:
 
-- GUI programming in HTML/CSS/Javascript
+- GUI programming in HTML/CSS/JavaScript
 - the MVC design pattern
 
-Note this assignment is not about UI design. We are practicingg with
-HTML/CSS/Javascript and the MVC pattern dsicussed in class. We will consider
+Note this assignment is not about UI design. We are practicing with
+HTML/CSS/JavaScript and the MVC pattern discussed in class. We will consider
 better designs later this semester.
 
-Do not use any Javascript libraries. The HTML, Javascript, and CSS should be
+Do not use any JavaScript libraries. The HTML, JavaScript, and CSS should be
 in separate files. No style information should be in the HTML tags. Do not use
 HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
@@ -38,7 +38,7 @@ above.
 
 This assignment should be implemented such that the MVC design pattern, as
 demonstrated in class, is followed. Your repository will be pre-populated with
-a Javascript file with the functions you should use to create this. You will
+a JavaScript file with the functions you should use to create this. You will
 need to fill in the JS code, as well as create the HTML and CSS files.
 
 #### Functionality
@@ -69,8 +69,8 @@ All text, including that in the text input, should be 14pt sans-serif. As
 demonstrated in class, you may need to add a `-webkit-appearance: none;` or
 other line to your CSS depending on the browser and OS you use.
 
-The category and clear buttons should be on the left as shown. They content
-should start beneath the text input control vertically (but too the left of
+The category and clear buttons should be on the left as shown. The content
+should start beneath the text input control vertically (but to the left of
 it). There should be a label `Set Item Type:`. All buttons in this column
 should be 150 pixels wide with centered text. There should be 25 pixels of
 space between the clear button and the others.
