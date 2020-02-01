@@ -4,9 +4,9 @@ Version History:
 
 - Released 2020/1/31
 
-The subject of the project is either a stand alone ordering system for a
-restaurant [MENU], such as those seen locally as places like In and Out Deli,
-Panera, and Jimmy's Pita and Poke or an inventory system in a video game
+The subject of the project is either a standalone ordering system for a
+restaurant [MENU], such as those seen locally as places like In & Out Deli,
+Panera, Jimmy's Pita and Poke, or an inventory system in a video game
 [GAME], as seen in Borderlands, Mass Effects, and many RPGs.
 
 In this milestone we are:
@@ -39,7 +39,7 @@ For the purposes of this assignment, we are assuming the user goal of:
 Write clearly the context of use for your interface. All three elements of the
 context of use should be described.
 
-For example, in the menu case, we expect some serve people walking up to be
+For example, in the menu case, we expect some served people walking up to be
 seated later, some are for To-Go users only, and some are table-side. Some
 accept credit only and some allow cash. Any of these is fine, but this should
 be made clear. 
@@ -55,7 +55,7 @@ fine, but this should be made clear.
 Include images of your rough brainstorming sketches. Number each design. There
 should be at least ten. You may take photos and upload those.
 
-After sketching, roup the designs by commonality and explain why they were
+After sketching, group the designs by commonality and explain why they were
 grouped the way there were but what the differences between them are. 
 
 You will be graded on the diversity of designs, their appropriateness to the
@@ -90,7 +90,7 @@ You will be graded on (a)  the choice of the three designs and whether they
 cover your design space, (b) the thoroughness in communicating the design and
 its interactions, (c) the thoroughness and appropriateness of the
 concept/metaphor explanation as well as (d) the explanation of the advantages
-and disadvantages with respect to design principles annd rationale. At least
+and disadvantages with respect to design principles and rationale. At least
 three advantages and disadvantages of each design are expected.
 
 
@@ -99,7 +99,7 @@ three advantages and disadvantages of each design are expected.
 
 Please write your report in a tabbed webpage as shown below with the section
 titles `Context`, `Roughs`, `Design #1`, `Design #2`, and `Design #3` each in
-14pt sans-serif font. They are color coded with `bisque`, `#E8E8E8`, `#DDDDDD`,
+14pt sans-serif font. They are color-coded with `bisque`, `#E8E8E8`, `#DDDDDD`,
 `#B8B8B8`, and `#AAAAAA` respectively. The tabs are rounded on top. The content in
 each tab should be 750 pixels wide. The shown body is rounded in all free
 areas. The background of the entire page should be `lightsteelblue.`
